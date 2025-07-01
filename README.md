@@ -52,8 +52,8 @@ pip install -r requirements.txt
 uvicorn workout_api.main:app --reload
 
 
-🧠 Autor
-Matheus Pessanha
-Recife/PE 🇧🇷
-LinkedIn • GitHub
+#🧠 Autor
+
+## Matheus Pessanha
+## Recife/PE 🇧🇷
 
