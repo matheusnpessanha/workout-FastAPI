@@ -54,6 +54,6 @@ uvicorn workout_api.main:app --reload
 
 🧠 Autor
 
-## Matheus Pessanha
-## Recife/PE 🇧🇷
+Matheus Pessanha
+Recife/PE 🇧🇷
 
