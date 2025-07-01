@@ -52,8 +52,11 @@ pip install -r requirements.txt
 uvicorn workout_api.main:app --reload
 
 
-🧠 Autor
 
-Matheus Pessanha
-Recife/PE 🇧🇷
+## 🧠 Autor
+
+**Matheus Pessanha**  
+Recife/PE 🇧🇷  
+[LinkedIn](https://www.linkedin.com/in/matheus-nascimento-pessanha/) • [GitHub](https://github.com/matheusnpessanha)
+
 
