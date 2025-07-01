@@ -47,12 +47,13 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 
-🧠 Autor
-Matheus Pessanha
-Recife/PE 🇧🇷
-LinkedIn • GitHub
 ### 4. Execute a aplicação
 
 uvicorn workout_api.main:app --reload
 
+
+🧠 Autor
+Matheus Pessanha
+Recife/PE 🇧🇷
+LinkedIn • GitHub
 
