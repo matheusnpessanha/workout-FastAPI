@@ -52,7 +52,7 @@ pip install -r requirements.txt
 uvicorn workout_api.main:app --reload
 
 
-#🧠 Autor
+🧠 Autor
 
 ## Matheus Pessanha
 ## Recife/PE 🇧🇷
