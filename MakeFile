@@ -1,0 +1,11 @@
+run:
+	@python -m uvicorn workout_api.main:app --reload --port 5000
+
+create-migrations:
+	@PYTHONPATH=$PYTHONPATH:$(pwd) alembic revision --autogenerate -m $(d)
+
+run-migrations:
+	@PYTHONPATH=$PYTHONPATH:$(pwd) alembic upgrade head
+
+venv:
+	@./venv/Scripts/activate
